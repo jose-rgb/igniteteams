@@ -13,6 +13,8 @@ export const Container = styled(TouchableOpacity)`
     align-items: center;
 
     padding: 24px;
+    margin-left: 22px;
+    margin-right: 22px;
     margin-bottom: 12px;
 `;
 
