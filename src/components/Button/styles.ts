@@ -10,8 +10,8 @@ type Props = {
 export const Container = styled(TouchableOpacity)<Props>`
     flex: 1;
 
-    max-width: 90%;
-    min-width: 90%;
+    width: 100%;
+    width: 100%;
     min-height: 56px;
     max-height: 56px;
 
@@ -21,7 +21,7 @@ export const Container = styled(TouchableOpacity)<Props>`
     justify-content: center;
     align-items: center;
 
-    margin: 22px;
+    margin-top: 20px;
 `;
 
 export const Title = styled.Text`
