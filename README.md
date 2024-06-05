@@ -1,7 +1,6 @@
 ## 📱 Ignite Teams
 
-Projeto desenvolvido no segundo modulo do curso de React Native da [@Rocketseat](https://www.rocketseat.com.br/) 💜🚀.
-
+Projeto desenvolvido no segundo modulo do curso de React Native da [@Rocketseat](https://www.rocketseat.com.br/) 💜🚀. Onde foi desenvolvido um aplicativo com intuito de ajudar a organizar pessoas que se reunem em turmas para jogar.
 
 ![cover](.github/printscreen.png)
 
